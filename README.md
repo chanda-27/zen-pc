@@ -1,4 +1,4 @@
-# (ZEN PC)[https://vibrant-shirley-05eb5e.netlify.app/]
+# [ZEN PC](https://vibrant-shirley-05eb5e.netlify.app/)
 A front-end e-commerce web app where you can order your favorite product from the shop. You have options for lots of items. You can add products to the cart and pay online to get your product safely from home.
 
 ## Features

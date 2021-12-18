@@ -1,0 +1,25 @@
+.home-section{
+
+    min-height: calc(100vh - 56px);
+    min-height: -webkit-calc(100vh - 56px);
+    min-height: -moz-calc(100vh - 56px);
+}
+.home-second-div h1{
+    font-weight: 700;
+}
+.home-second-div p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn-brand{
+    padding: 8px 30px;
+    margin-top: 20px;
+    border: 2px solid #00f;
+    color: #00f;
+    font-size: 20px !important;
+    font-weight: bold;
+    font-weight: 700;
+}
+.btn-brand:hover{
+    color: #00f;
+}
